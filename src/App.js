@@ -9,7 +9,7 @@ function App() {
         <h1>BELAJAR REACT</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          https://github.com/DwiNurfatma/React.git
+          https://github.com/DwiNurfatma
         </p>
         <a
           className="App-link"
