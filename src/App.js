@@ -9,7 +9,7 @@ function App() {
         <h1>BELAJAR REACT</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          https://github.com/DwiNurfatma/React.git
         </p>
         <a
           className="App-link"
